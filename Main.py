@@ -5,4 +5,6 @@
 print("Welcome to Mad Libs!")
 print("Give me a name: ")
 name=input()
-print("One day",name,"wrote a Mad Lib for class!")
+print("Give me a verb: ")
+verb =input()
+print("One day",name,verb,"a Mad Lib for class!")
